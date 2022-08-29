@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Hijra Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-08-26T10:35:54" hostname="DESKTOP-3A1ESU7" time="11.0">
+  <properties/>
+  <testcase name="user skip pop up banner" classname="Hijra Test" time="0.371"/>
+  <testcase name="user type on search bar &quot;komputer&quot;" classname="Hijra Test" time="2.426"/>
+  <testcase name="user choose best product" classname="Hijra Test" time="0.12"/>
+  <testcase name="user choose the first product" classname="Hijra Test" time="4.264"/>
+  <testcase name="user can see the details of product" classname="Hijra Test" time="0.059"/>
+  <testcase name="user add item &quot;3&quot;" classname="Hijra Test" time="0.145"/>
+  <testcase name="user choose add to cart" classname="Hijra Test" time="0.072"/>
+  <testcase name="user choose ya on confirmation page" classname="Hijra Test" time="1.543"/>
+  <testcase name="user can see the details of cart" classname="Hijra Test" time="0.072"/>
+  <testcase name="user choose change kurir" classname="Hijra Test" time="0.078"/>
+  <testcase name="user choose cancel" classname="Hijra Test" time="0.281"/>
+  <testcase name="user choose delete product" classname="Hijra Test" time="0.104"/>
+  <testcase name="user choose ok delete" classname="Hijra Test" time="0.083"/>
+  <testcase name="user can see empty product on the shopping cart" classname="Hijra Test" time="0.714"/>
+  <testcase name="classMethod" classname="Hijra Test" time="16.137"/>
+  <system-out><![CDATA[
+@Web @Elevania
+Scenario Outline: Hijra Test                           ?[90m# src/test/resources/features/elevania.feature:23?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 16353
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1661510150.766][WARNING]: This version of ChromeDriver has not been tested with Chrome version 104.
+Aug 26, 2022 5:35:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
