@@ -1,4 +1,4 @@
-package demo.webdriver;
+package test.webdriver;
 
 import java.util.concurrent.TimeUnit;
 //import org.openqa.selenium.Platform;

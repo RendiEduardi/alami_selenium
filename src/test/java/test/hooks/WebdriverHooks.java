@@ -1,6 +1,6 @@
-package demo.hooks;
+package test.hooks;
 
-import demo.webdriver.WebdriverInstance;
+import test.webdriver.WebdriverInstance;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

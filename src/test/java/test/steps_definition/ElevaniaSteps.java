@@ -1,9 +1,8 @@
-package demo.steps_definition;
+package test.steps_definition;
 
 import io.cucumber.java.en.*;
-import io.cucumber.java.en_scouse.An;
 import org.junit.Assert;
-import demo.pages.base.page_object.Elevania;
+import test.pages.base.page_object.Elevania;
 
 public class ElevaniaSteps {
 

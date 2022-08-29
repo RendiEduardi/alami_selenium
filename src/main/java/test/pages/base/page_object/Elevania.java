@@ -1,8 +1,7 @@
-package demo.pages.base.page_object;
+package test.pages.base.page_object;
 
-import demo.pages.base.BasePageObject;
+import test.pages.base.BasePageObject;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 
 public class Elevania extends BasePageObject {
 

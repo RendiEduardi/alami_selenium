@@ -1,6 +1,6 @@
-package demo.pages.base;
+package test.pages.base;
 
-import demo.webdriver.WebdriverInstance;
+import test.webdriver.WebdriverInstance;
 import org.openqa.selenium.*;
 
 public class BasePageObject {
