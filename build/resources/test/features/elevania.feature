@@ -2,7 +2,7 @@
 Feature: Elevania
 
   @Elevania
-  Scenario Outline: Hijra Test
+  Scenario Outline: Alami Test
     Given user skip pop up banner
     And user type on search bar "<product>"
     Then user choose best product

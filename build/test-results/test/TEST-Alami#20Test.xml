@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Alami Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-08-29T05:19:56" hostname="DESKTOP-3A1ESU7" time="11.237">
+  <properties/>
+  <testcase name="user skip pop up banner" classname="Alami Test" time="0.192"/>
+  <testcase name="user type on search bar &quot;komputer&quot;" classname="Alami Test" time="3.418"/>
+  <testcase name="user choose best product" classname="Alami Test" time="0.086"/>
+  <testcase name="user choose the first product" classname="Alami Test" time="4.035"/>
+  <testcase name="user can see the details of product" classname="Alami Test" time="0.054"/>
+  <testcase name="user add item &quot;3&quot;" classname="Alami Test" time="0.157"/>
+  <testcase name="user choose add to cart" classname="Alami Test" time="0.063"/>
+  <testcase name="user choose ya on confirmation page" classname="Alami Test" time="1.417"/>
+  <testcase name="user can see the details of cart" classname="Alami Test" time="0.048"/>
+  <testcase name="user choose change kurir" classname="Alami Test" time="0.084"/>
+  <testcase name="user choose cancel" classname="Alami Test" time="0.234"/>
+  <testcase name="user choose delete product" classname="Alami Test" time="0.093"/>
+  <testcase name="user choose ok delete" classname="Alami Test" time="0.666"/>
+  <testcase name="user can see empty product on the shopping cart" classname="Alami Test" time="0.054"/>
+  <testcase name="classMethod" classname="Alami Test" time="13.906"/>
+  <system-out><![CDATA[
+@Web @Elevania
+Scenario Outline: Alami Test                           ?[90m# src/test/resources/features/elevania.feature:23?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 45068
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1661750395.407][WARNING]: This version of ChromeDriver has not been tested with Chrome version 104.
+Aug 29, 2022 12:19:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

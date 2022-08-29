@@ -2,7 +2,5 @@ demo/pages/base/BasePageObject.java
  demo.pages.base.BasePageObject
 demo/webdriver/WebdriverInstance.java
  demo.webdriver.WebdriverInstance
-demo/pages/base/page_object/elevania_test.java
- demo.pages.base.page_object.elevania_test
 demo/pages/base/page_object/Elevania.java
  demo.pages.base.page_object.Elevania

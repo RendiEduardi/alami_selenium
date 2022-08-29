@@ -21,12 +21,12 @@ public class Elevania extends BasePageObject {
     }
 
     public void clickBestProduct() {
-        By element = By.linkText("Produk terlaris");
+        By element = By.xpath("//a[contains(.,'Produk terlaris')]");
         clickOn(element);
     }
 
     public void clickFirstProduct() throws InterruptedException {
-        By element = By.linkText("JOYSEUS Wireless Mouse 1800DPI USB Computer 2.4GHz Mouse - MS0003");
+        By element = By.xpath("//a[contains(.,'JOYSEUS Wireless Mouse 1800DPI USB Computer 2.4GHz Mouse - MS0003')]");
         scrollDown();
         clickOn(element);
     }
